@@ -32,6 +32,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=foukan&show_icons=true&locale=en&layout=compact" alt="foukan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=foukan&show_icons=true&locale=en" alt="foukan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=foukan&show_icons=true&locale=en" alt="foukan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=foukan&" alt="foukan" /></p>
