@@ -1,4 +1,4 @@
-#<h1 align="center">Hi 👋, I'm Doğukan Köçkar</h1>
+<h1 align="center">Hi 👋, I'm Doğukan Köçkar</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=foukan&label=Profile%20views&color=0e75b6&style=flat" alt="foukan" /> </p>
@@ -7,14 +7,24 @@
 
 - 🔭 I’m currently working on **Django framework**
 
+- 🌱 I’m currently learning **React**
+
+- 📝 I regularly write articles on [http://eastkahn1.pythonanywhere.com/](http://eastkahn1.pythonanywhere.com/)
+
+- 💬 Ask me about **CSS**
+
 - 📫 How to reach me **dogukankockar@hotmail.com**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/foukando" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="foukando" height="30" width="40" /></a>
 <a href="https://dev.to/foukan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="foukan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/do%c4%9fukan-k-b1434a1a4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="do%c4%9fukan-k-b1434a1a4/" height="30" width="40" /></a>
+<a href="/http://eastkahn1.pythonanywhere.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="http://eastkahn1.pythonanywhere.com/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,6 +32,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=foukan&show_icons=true&locale=en&layout=compact" alt="foukan" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=foukan&show_icons=true&locale=en" alt="foukan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=foukan&show_icons=true&locale=en" alt="foukan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=foukan&" alt="foukan" /></p>
