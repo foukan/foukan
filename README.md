@@ -5,19 +5,25 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=foukan" alt="foukan" /></a> </p>
 
-- 🔭 I’m currently working on **Django framework**
+- 🔭 I’m currently working on **VueJs**
 
 - 🌱 I’m currently learning **React**
-
-- 📝 I regularly write articles on [http://eastkahn1.pythonanywhere.com/](http://eastkahn1.pythonanywhere.com/)
 
 - 💬 Ask me about **CSS**
 
 - 📫 How to reach me **dogukankockar@hotmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### My works
+
+<h5 align="center"><a href="http://pokevue.herokuapp.com/">Pokemon app With Vue js</a></h5>
+- <h6> </h6>
+
+***************************************
+
+<h5 align="center"><a href="https://foukan.github.io/">My home page @github</a></h5>
+
+***************************************
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
