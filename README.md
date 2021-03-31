@@ -16,7 +16,6 @@
 ### My works
 
 <h5 align="center"><a href="http://pokevue.herokuapp.com/">Pokemon app With Vue js</a></h5>
-- <h6> </h6>
 
 ***************************************
 
